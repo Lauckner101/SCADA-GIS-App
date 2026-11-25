@@ -1,0 +1,2784 @@
+[
+  {
+    "id": "ACR-001",
+    "type": "acr",
+    "ip": "127.0.0.2",
+    "lat": 53.540063,
+    "lon": -113.372537,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-002",
+    "type": "acr",
+    "ip": "127.0.0.3",
+    "lat": 53.507566,
+    "lon": -114.553309,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-003",
+    "type": "acr",
+    "ip": "127.0.0.4",
+    "lat": 53.857211,
+    "lon": -112.894905,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-004",
+    "type": "acr",
+    "ip": "127.0.0.5",
+    "lat": 53.4617,
+    "lon": -113.65199,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-005",
+    "type": "acr",
+    "ip": "127.0.0.6",
+    "lat": 53.505303,
+    "lon": -114.855912,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-006",
+    "type": "acr",
+    "ip": "127.0.0.7",
+    "lat": 53.782326,
+    "lon": -113.101408,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-007",
+    "type": "acr",
+    "ip": "127.0.0.8",
+    "lat": 53.614808,
+    "lon": -113.58783,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-008",
+    "type": "acr",
+    "ip": "127.0.0.9",
+    "lat": 53.434751,
+    "lon": -113.460325,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-009",
+    "type": "acr",
+    "ip": "127.0.0.10",
+    "lat": 53.482913,
+    "lon": -114.27767,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-010",
+    "type": "acr",
+    "ip": "127.0.0.11",
+    "lat": 53.739967,
+    "lon": -113.207853,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-011",
+    "type": "acr",
+    "ip": "127.0.0.12",
+    "lat": 53.301691,
+    "lon": -113.393914,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-012",
+    "type": "acr",
+    "ip": "127.0.0.13",
+    "lat": 53.366931,
+    "lon": -114.443819,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-013",
+    "type": "acr",
+    "ip": "127.0.0.14",
+    "lat": 53.352348,
+    "lon": -113.719883,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-014",
+    "type": "acr",
+    "ip": "127.0.0.15",
+    "lat": 53.558859,
+    "lon": -114.492351,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-015",
+    "type": "acr",
+    "ip": "127.0.0.16",
+    "lat": 53.583126,
+    "lon": -114.985555,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-016",
+    "type": "acr",
+    "ip": "127.0.0.17",
+    "lat": 53.641142,
+    "lon": -113.344243,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-017",
+    "type": "acr",
+    "ip": "127.0.0.18",
+    "lat": 53.14146,
+    "lon": -114.427535,
+    "voltage": "500kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-018",
+    "type": "acr",
+    "ip": "127.0.0.19",
+    "lat": 53.856547,
+    "lon": -113.230455,
+    "voltage": "500kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-019",
+    "type": "acr",
+    "ip": "127.0.0.20",
+    "lat": 53.453218,
+    "lon": -114.431376,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-020",
+    "type": "acr",
+    "ip": "127.0.0.21",
+    "lat": 53.823513,
+    "lon": -113.062229,
+    "voltage": "240kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-021",
+    "type": "acr",
+    "ip": "127.0.0.22",
+    "lat": 53.257877,
+    "lon": -113.780796,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-022",
+    "type": "acr",
+    "ip": "127.0.0.23",
+    "lat": 53.462315,
+    "lon": -113.381228,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-023",
+    "type": "acr",
+    "ip": "127.0.0.24",
+    "lat": 53.476641,
+    "lon": -114.591293,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-024",
+    "type": "acr",
+    "ip": "127.0.0.25",
+    "lat": 53.512629,
+    "lon": -113.776053,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-025",
+    "type": "acr",
+    "ip": "127.0.0.26",
+    "lat": 53.580121,
+    "lon": -114.742054,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-026",
+    "type": "acr",
+    "ip": "127.0.0.27",
+    "lat": 53.774396,
+    "lon": -113.595167,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-027",
+    "type": "acr",
+    "ip": "127.0.0.28",
+    "lat": 53.803633,
+    "lon": -112.897048,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-028",
+    "type": "acr",
+    "ip": "127.0.0.29",
+    "lat": 53.949019,
+    "lon": -112.913991,
+    "voltage": "138kV",
+    "placement": "branch"
+  },
+  {
+    "id": "ACR-029",
+    "type": "acr",
+    "ip": "127.0.0.30",
+    "lat": 53.210721,
+    "lon": -113.390686,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-030",
+    "type": "acr",
+    "ip": "127.0.0.31",
+    "lat": 53.266406,
+    "lon": -114.440281,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-031",
+    "type": "acr",
+    "ip": "127.0.0.32",
+    "lat": 53.184693,
+    "lon": -113.829663,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-032",
+    "type": "acr",
+    "ip": "127.0.0.33",
+    "lat": 53.366927,
+    "lon": -113.580884,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-033",
+    "type": "acr",
+    "ip": "127.0.0.34",
+    "lat": 53.366885,
+    "lon": -113.203281,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-034",
+    "type": "acr",
+    "ip": "127.0.0.35",
+    "lat": 53.47444,
+    "lon": -114.983891,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-035",
+    "type": "acr",
+    "ip": "127.0.0.36",
+    "lat": 53.435297,
+    "lon": -113.738069,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-036",
+    "type": "acr",
+    "ip": "127.0.0.37",
+    "lat": 53.643477,
+    "lon": -113.766944,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-037",
+    "type": "acr",
+    "ip": "127.0.0.38",
+    "lat": 53.555748,
+    "lon": -114.240627,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-038",
+    "type": "acr",
+    "ip": "127.0.0.39",
+    "lat": 53.551339,
+    "lon": -113.983546,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-039",
+    "type": "acr",
+    "ip": "127.0.0.40",
+    "lat": 53.686845,
+    "lon": -113.585798,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-040",
+    "type": "acr",
+    "ip": "127.0.0.41",
+    "lat": 53.893254,
+    "lon": -113.595274,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-041",
+    "type": "acr",
+    "ip": "127.0.0.42",
+    "lat": 53.934933,
+    "lon": -113.07526,
+    "voltage": "138kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-042",
+    "type": "acr",
+    "ip": "127.0.0.43",
+    "lat": 53.953878,
+    "lon": -112.789988,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-043",
+    "type": "acr",
+    "ip": "127.0.0.44",
+    "lat": 53.95624,
+    "lon": -112.518446,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-044",
+    "type": "acr",
+    "ip": "127.0.0.45",
+    "lat": 54.02936,
+    "lon": -112.36908,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-045",
+    "type": "acr",
+    "ip": "127.0.0.46",
+    "lat": 53.276968,
+    "lon": -113.488231,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-046",
+    "type": "acr",
+    "ip": "127.0.0.47",
+    "lat": 53.306163,
+    "lon": -114.427414,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-047",
+    "type": "acr",
+    "ip": "127.0.0.48",
+    "lat": 53.339718,
+    "lon": -114.550132,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-048",
+    "type": "acr",
+    "ip": "127.0.0.49",
+    "lat": 53.46136,
+    "lon": -114.08373,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-049",
+    "type": "acr",
+    "ip": "127.0.0.50",
+    "lat": 53.461183,
+    "lon": -113.869101,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-050",
+    "type": "acr",
+    "ip": "127.0.0.51",
+    "lat": 53.497807,
+    "lon": -114.658615,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-051",
+    "type": "acr",
+    "ip": "127.0.0.52",
+    "lat": 53.577403,
+    "lon": -114.252763,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-052",
+    "type": "acr",
+    "ip": "127.0.0.53",
+    "lat": 53.577379,
+    "lon": -114.021491,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-053",
+    "type": "acr",
+    "ip": "127.0.0.54",
+    "lat": 53.577387,
+    "lon": -113.790217,
+    "voltage": "240kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-054",
+    "type": "acr",
+    "ip": "127.0.0.55",
+    "lat": 53.373926,
+    "lon": -114.069704,
+    "voltage": "500kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-055",
+    "type": "acr",
+    "ip": "127.0.0.56",
+    "lat": 53.345028,
+    "lon": -113.796862,
+    "voltage": "500kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-056",
+    "type": "acr",
+    "ip": "127.0.0.57",
+    "lat": 53.419561,
+    "lon": -113.577324,
+    "voltage": "500kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-057",
+    "type": "acr",
+    "ip": "127.0.0.58",
+    "lat": 53.444038,
+    "lon": -113.598632,
+    "voltage": "500kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-058",
+    "type": "acr",
+    "ip": "127.0.0.59",
+    "lat": 53.46058,
+    "lon": -114.15662,
+    "voltage": "500kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-059",
+    "type": "acr",
+    "ip": "127.0.0.60",
+    "lat": 53.280148,
+    "lon": -114.426454,
+    "voltage": "500kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-060",
+    "type": "acr",
+    "ip": "127.0.0.61",
+    "lat": 53.519497,
+    "lon": -113.34017,
+    "voltage": "500kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-061",
+    "type": "acr",
+    "ip": "127.0.0.62",
+    "lat": 53.654716,
+    "lon": -113.379634,
+    "voltage": "500kV",
+    "placement": "midway"
+  },
+  {
+    "id": "ACR-062",
+    "type": "acr",
+    "ip": "127.0.0.63",
+    "lat": 53.766949,
+    "lon": -113.31714,
+    "voltage": "500kV",
+    "placement": "midway"
+  },
+  {
+    "id": "LP-001",
+    "type": "linepost",
+    "ip": "127.0.0.64",
+    "lat": 53.381151,
+    "lon": -114.28421,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-002",
+    "type": "linepost",
+    "ip": "127.0.0.65",
+    "lat": 53.373975,
+    "lon": -114.141751,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-003",
+    "type": "linepost",
+    "ip": "127.0.0.66",
+    "lat": 53.373976,
+    "lon": -113.997658,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-004",
+    "type": "linepost",
+    "ip": "127.0.0.67",
+    "lat": 53.358794,
+    "lon": -113.861567,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-005",
+    "type": "linepost",
+    "ip": "127.0.0.68",
+    "lat": 53.345554,
+    "lon": -113.724899,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-006",
+    "type": "linepost",
+    "ip": "127.0.0.69",
+    "lat": 53.384619,
+    "lon": -113.608938,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-007",
+    "type": "linepost",
+    "ip": "127.0.0.70",
+    "lat": 53.435977,
+    "lon": -113.522009,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-008",
+    "type": "linepost",
+    "ip": "127.0.0.71",
+    "lat": 53.461132,
+    "lon": -113.659626,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-009",
+    "type": "linepost",
+    "ip": "127.0.0.72",
+    "lat": 53.460966,
+    "lon": -113.797974,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-010",
+    "type": "linepost",
+    "ip": "127.0.0.73",
+    "lat": 53.460913,
+    "lon": -113.942362,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-011",
+    "type": "linepost",
+    "ip": "127.0.0.74",
+    "lat": 53.461202,
+    "lon": -114.090508,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-012",
+    "type": "linepost",
+    "ip": "127.0.0.75",
+    "lat": 53.460707,
+    "lon": -114.228814,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-013",
+    "type": "linepost",
+    "ip": "127.0.0.76",
+    "lat": 53.461864,
+    "lon": -114.372993,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-014",
+    "type": "linepost",
+    "ip": "127.0.0.77",
+    "lat": 53.85434,
+    "lon": -112.821045,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-015",
+    "type": "linepost",
+    "ip": "127.0.0.78",
+    "lat": 53.924388,
+    "lon": -112.790009,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-016",
+    "type": "linepost",
+    "ip": "127.0.0.79",
+    "lat": 53.956232,
+    "lon": -112.693858,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-017",
+    "type": "linepost",
+    "ip": "127.0.0.80",
+    "lat": 53.956328,
+    "lon": -112.543504,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-018",
+    "type": "linepost",
+    "ip": "127.0.0.81",
+    "lat": 53.95505,
+    "lon": -112.393169,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-019",
+    "type": "linepost",
+    "ip": "127.0.0.82",
+    "lat": 54.026443,
+    "lon": -112.369458,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-020",
+    "type": "linepost",
+    "ip": "127.0.0.83",
+    "lat": 53.433809,
+    "lon": -113.381468,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-021",
+    "type": "linepost",
+    "ip": "127.0.0.84",
+    "lat": 53.498938,
+    "lon": -113.340286,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-022",
+    "type": "linepost",
+    "ip": "127.0.0.85",
+    "lat": 53.580998,
+    "lon": -113.340684,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-023",
+    "type": "linepost",
+    "ip": "127.0.0.86",
+    "lat": 53.658314,
+    "lon": -113.379616,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-024",
+    "type": "linepost",
+    "ip": "127.0.0.87",
+    "lat": 53.715398,
+    "lon": -113.335135,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-025",
+    "type": "linepost",
+    "ip": "127.0.0.88",
+    "lat": 53.773957,
+    "lon": -113.29378,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-026",
+    "type": "linepost",
+    "ip": "127.0.0.89",
+    "lat": 53.821394,
+    "lon": -113.22222,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-027",
+    "type": "linepost",
+    "ip": "127.0.0.90",
+    "lat": 53.568323,
+    "lon": -114.411942,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-028",
+    "type": "linepost",
+    "ip": "127.0.0.91",
+    "lat": 53.577396,
+    "lon": -114.285802,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-029",
+    "type": "linepost",
+    "ip": "127.0.0.92",
+    "lat": 53.57735,
+    "lon": -114.153645,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-030",
+    "type": "linepost",
+    "ip": "127.0.0.93",
+    "lat": 53.577374,
+    "lon": -114.015432,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-031",
+    "type": "linepost",
+    "ip": "127.0.0.94",
+    "lat": 53.577384,
+    "lon": -113.889335,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-032",
+    "type": "linepost",
+    "ip": "127.0.0.95",
+    "lat": 53.577398,
+    "lon": -113.757178,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-033",
+    "type": "linepost",
+    "ip": "127.0.0.96",
+    "lat": 53.606632,
+    "lon": -113.648332,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-034",
+    "type": "linepost",
+    "ip": "127.0.0.97",
+    "lat": 53.568874,
+    "lon": -114.436083,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-035",
+    "type": "linepost",
+    "ip": "127.0.0.98",
+    "lat": 53.555738,
+    "lon": -114.30649,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-036",
+    "type": "linepost",
+    "ip": "127.0.0.99",
+    "lat": 53.55577,
+    "lon": -114.170845,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-037",
+    "type": "linepost",
+    "ip": "127.0.0.100",
+    "lat": 53.555698,
+    "lon": -114.040124,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-038",
+    "type": "linepost",
+    "ip": "127.0.0.101",
+    "lat": 53.527136,
+    "lon": -113.959357,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-039",
+    "type": "linepost",
+    "ip": "127.0.0.102",
+    "lat": 53.512132,
+    "lon": -113.845098,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-040",
+    "type": "linepost",
+    "ip": "127.0.0.103",
+    "lat": 53.461042,
+    "lon": -114.235553,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-041",
+    "type": "linepost",
+    "ip": "127.0.0.104",
+    "lat": 53.460886,
+    "lon": -114.10536,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-042",
+    "type": "linepost",
+    "ip": "127.0.0.105",
+    "lat": 53.461217,
+    "lon": -113.977597,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-043",
+    "type": "linepost",
+    "ip": "127.0.0.106",
+    "lat": 53.461142,
+    "lon": -113.847402,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-044",
+    "type": "linepost",
+    "ip": "127.0.0.107",
+    "lat": 53.461397,
+    "lon": -113.717207,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-045",
+    "type": "linepost",
+    "ip": "127.0.0.108",
+    "lat": 53.549451,
+    "lon": -113.787079,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-046",
+    "type": "linepost",
+    "ip": "127.0.0.109",
+    "lat": 53.62638,
+    "lon": -113.811855,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-047",
+    "type": "linepost",
+    "ip": "127.0.0.110",
+    "lat": 53.639451,
+    "lon": -113.69523,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-048",
+    "type": "linepost",
+    "ip": "127.0.0.111",
+    "lat": 53.366983,
+    "lon": -112.998939,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-049",
+    "type": "linepost",
+    "ip": "127.0.0.112",
+    "lat": 53.366831,
+    "lon": -113.132789,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-050",
+    "type": "linepost",
+    "ip": "127.0.0.113",
+    "lat": 53.393833,
+    "lon": -113.255303,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-051",
+    "type": "linepost",
+    "ip": "127.0.0.114",
+    "lat": 53.46138,
+    "lon": -113.313871,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-052",
+    "type": "linepost",
+    "ip": "127.0.0.115",
+    "lat": 53.419161,
+    "lon": -114.408734,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-053",
+    "type": "linepost",
+    "ip": "127.0.0.116",
+    "lat": 53.347535,
+    "lon": -114.426737,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-054",
+    "type": "linepost",
+    "ip": "127.0.0.117",
+    "lat": 53.265102,
+    "lon": -114.427064,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-055",
+    "type": "linepost",
+    "ip": "127.0.0.118",
+    "lat": 53.182678,
+    "lon": -114.427427,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-056",
+    "type": "linepost",
+    "ip": "127.0.0.119",
+    "lat": 53.159012,
+    "lon": -113.488067,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-057",
+    "type": "linepost",
+    "ip": "127.0.0.120",
+    "lat": 53.237649,
+    "lon": -113.488226,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-058",
+    "type": "linepost",
+    "ip": "127.0.0.121",
+    "lat": 53.315394,
+    "lon": -113.488095,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-059",
+    "type": "linepost",
+    "ip": "127.0.0.122",
+    "lat": 53.392498,
+    "lon": -113.466933,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-060",
+    "type": "linepost",
+    "ip": "127.0.0.123",
+    "lat": 53.356575,
+    "lon": -114.367635,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-061",
+    "type": "linepost",
+    "ip": "127.0.0.124",
+    "lat": 53.314722,
+    "lon": -114.426288,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-062",
+    "type": "linepost",
+    "ip": "127.0.0.125",
+    "lat": 53.245474,
+    "lon": -114.426387,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-063",
+    "type": "linepost",
+    "ip": "127.0.0.126",
+    "lat": 53.176135,
+    "lon": -114.426774,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-064",
+    "type": "linepost",
+    "ip": "127.0.0.127",
+    "lat": 53.418977,
+    "lon": -114.555104,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-065",
+    "type": "linepost",
+    "ip": "127.0.0.128",
+    "lat": 53.33612,
+    "lon": -114.550115,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-066",
+    "type": "linepost",
+    "ip": "127.0.0.129",
+    "lat": 53.261498,
+    "lon": -114.52514,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-067",
+    "type": "linepost",
+    "ip": "127.0.0.130",
+    "lat": 53.967221,
+    "lon": -113.61998,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-068",
+    "type": "linepost",
+    "ip": "127.0.0.131",
+    "lat": 53.889657,
+    "lon": -113.595264,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-069",
+    "type": "linepost",
+    "ip": "127.0.0.132",
+    "lat": 53.813283,
+    "lon": -113.59515,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-070",
+    "type": "linepost",
+    "ip": "127.0.0.133",
+    "lat": 53.505136,
+    "lon": -114.789061,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-071",
+    "type": "linepost",
+    "ip": "127.0.0.134",
+    "lat": 53.497805,
+    "lon": -114.652568,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-072",
+    "type": "linepost",
+    "ip": "127.0.0.135",
+    "lat": 53.547392,
+    "lon": -114.983681,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-073",
+    "type": "linepost",
+    "ip": "127.0.0.136",
+    "lat": 53.470843,
+    "lon": -114.983864,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-074",
+    "type": "linepost",
+    "ip": "127.0.0.137",
+    "lat": 53.402614,
+    "lon": -114.98332,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-075",
+    "type": "linepost",
+    "ip": "127.0.0.138",
+    "lat": 53.948983,
+    "lon": -112.976115,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-076",
+    "type": "linepost",
+    "ip": "127.0.0.139",
+    "lat": 53.931565,
+    "lon": -113.074848,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-077",
+    "type": "linepost",
+    "ip": "127.0.0.140",
+    "lat": 53.869022,
+    "lon": -113.086568,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-078",
+    "type": "linepost",
+    "ip": "127.0.0.141",
+    "lat": 53.197085,
+    "lon": -114.440309,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-079",
+    "type": "linepost",
+    "ip": "127.0.0.142",
+    "lat": 53.270003,
+    "lon": -114.440285,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-080",
+    "type": "linepost",
+    "ip": "127.0.0.143",
+    "lat": 53.335728,
+    "lon": -114.440104,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-081",
+    "type": "linepost",
+    "ip": "127.0.0.144",
+    "lat": 53.250557,
+    "lon": -113.825671,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-082",
+    "type": "linepost",
+    "ip": "127.0.0.145",
+    "lat": 53.181095,
+    "lon": -113.829663,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-083",
+    "type": "linepost",
+    "ip": "127.0.0.146",
+    "lat": 53.134061,
+    "lon": -113.860358,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-084",
+    "type": "linepost",
+    "ip": "127.0.0.147",
+    "lat": 53.352447,
+    "lon": -113.669645,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-085",
+    "type": "linepost",
+    "ip": "127.0.0.148",
+    "lat": 53.366942,
+    "lon": -113.574855,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-086",
+    "type": "linepost",
+    "ip": "127.0.0.149",
+    "lat": 53.487844,
+    "lon": -113.76226,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-087",
+    "type": "linepost",
+    "ip": "127.0.0.150",
+    "lat": 53.4317,
+    "lon": -113.738095,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-088",
+    "type": "linepost",
+    "ip": "127.0.0.151",
+    "lat": 53.368472,
+    "lon": -113.740498,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-089",
+    "type": "linepost",
+    "ip": "127.0.0.152",
+    "lat": 53.150161,
+    "lon": -113.390789,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-090",
+    "type": "linepost",
+    "ip": "127.0.0.153",
+    "lat": 53.214318,
+    "lon": -113.390653,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-091",
+    "type": "linepost",
+    "ip": "127.0.0.154",
+    "lat": 53.27131,
+    "lon": -113.391329,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-092",
+    "type": "linepost",
+    "ip": "127.0.0.155",
+    "lat": 53.641502,
+    "lon": -113.577491,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-093",
+    "type": "linepost",
+    "ip": "127.0.0.156",
+    "lat": 53.690283,
+    "lon": -113.587581,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-094",
+    "type": "linepost",
+    "ip": "127.0.0.157",
+    "lat": 53.744153,
+    "lon": -113.595094,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-095",
+    "type": "linepost",
+    "ip": "127.0.0.158",
+    "lat": 53.649321,
+    "lon": -113.325329,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-096",
+    "type": "linepost",
+    "ip": "127.0.0.159",
+    "lat": 53.705115,
+    "lon": -113.251089,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-097",
+    "type": "linepost",
+    "ip": "127.0.0.160",
+    "lat": 53.520803,
+    "lon": -114.309838,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-098",
+    "type": "linepost",
+    "ip": "127.0.0.161",
+    "lat": 53.621312,
+    "lon": -113.401369,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-099",
+    "type": "linepost",
+    "ip": "127.0.0.162",
+    "lat": 53.42145,
+    "lon": -113.381396,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-100",
+    "type": "linepost",
+    "ip": "127.0.0.163",
+    "lat": 53.342415,
+    "lon": -113.391179,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-101",
+    "type": "linepost",
+    "ip": "127.0.0.164",
+    "lat": 53.869318,
+    "lon": -113.176308,
+    "voltage": "260kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-102",
+    "type": "linepost",
+    "ip": "127.0.0.165",
+    "lat": 53.869732,
+    "lon": -113.060326,
+    "voltage": "260kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-103",
+    "type": "linepost",
+    "ip": "127.0.0.166",
+    "lat": 53.803577,
+    "lon": -113.054554,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-104",
+    "type": "linepost",
+    "ip": "127.0.0.167",
+    "lat": 53.818024,
+    "lon": -112.94139,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-105",
+    "type": "linepost",
+    "ip": "127.0.0.168",
+    "lat": 53.56818,
+    "lon": -114.549172,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-106",
+    "type": "linepost",
+    "ip": "127.0.0.169",
+    "lat": 53.583316,
+    "lon": -114.675626,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-107",
+    "type": "linepost",
+    "ip": "127.0.0.170",
+    "lat": 53.723284,
+    "lon": -113.246146,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-108",
+    "type": "linepost",
+    "ip": "127.0.0.171",
+    "lat": 53.680394,
+    "lon": -113.34422,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-109",
+    "type": "linepost",
+    "ip": "127.0.0.172",
+    "lat": 53.432709,
+    "lon": -113.393829,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-110",
+    "type": "linepost",
+    "ip": "127.0.0.173",
+    "lat": 53.503325,
+    "lon": -113.381567,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-111",
+    "type": "linepost",
+    "ip": "127.0.0.174",
+    "lat": 53.519628,
+    "lon": -114.601752,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-112",
+    "type": "linepost",
+    "ip": "127.0.0.175",
+    "lat": 53.580043,
+    "lon": -114.802913,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-113",
+    "type": "linepost",
+    "ip": "127.0.0.176",
+    "lat": 53.5831,
+    "lon": -114.924482,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-114",
+    "type": "linepost",
+    "ip": "127.0.0.177",
+    "lat": 53.614321,
+    "lon": -113.529011,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-115",
+    "type": "linepost",
+    "ip": "127.0.0.178",
+    "lat": 53.625424,
+    "lon": -113.430697,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-116",
+    "type": "linepost",
+    "ip": "127.0.0.179",
+    "lat": 53.477556,
+    "lon": -114.433799,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-117",
+    "type": "linepost",
+    "ip": "127.0.0.180",
+    "lat": 53.586174,
+    "lon": -114.955391,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-118",
+    "type": "linepost",
+    "ip": "127.0.0.181",
+    "lat": 53.529694,
+    "lon": -114.897867,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-119",
+    "type": "linepost",
+    "ip": "127.0.0.182",
+    "lat": 53.290626,
+    "lon": -113.781027,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-120",
+    "type": "linepost",
+    "ip": "127.0.0.183",
+    "lat": 53.548578,
+    "lon": -113.29368,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-121",
+    "type": "linepost",
+    "ip": "127.0.0.184",
+    "lat": 53.243054,
+    "lon": -113.658447,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-122",
+    "type": "linepost",
+    "ip": "127.0.0.185",
+    "lat": 53.641656,
+    "lon": -113.236695,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-123",
+    "type": "linepost",
+    "ip": "127.0.0.186",
+    "lat": 53.687718,
+    "lon": -113.197132,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-124",
+    "type": "linepost",
+    "ip": "127.0.0.187",
+    "lat": 53.542354,
+    "lon": -113.651872,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-125",
+    "type": "linepost",
+    "ip": "127.0.0.188",
+    "lat": 53.930664,
+    "lon": -112.901346,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-126",
+    "type": "linepost",
+    "ip": "127.0.0.189",
+    "lat": 53.879228,
+    "lon": -112.901452,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-127",
+    "type": "linepost",
+    "ip": "127.0.0.190",
+    "lat": 53.752505,
+    "lon": -113.104856,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-128",
+    "type": "linepost",
+    "ip": "127.0.0.191",
+    "lat": 53.461504,
+    "lon": -114.559741,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-129",
+    "type": "linepost",
+    "ip": "127.0.0.192",
+    "lat": 53.757356,
+    "lon": -113.182257,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-130",
+    "type": "linepost",
+    "ip": "127.0.0.193",
+    "lat": 53.797227,
+    "lon": -113.144043,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-131",
+    "type": "linepost",
+    "ip": "127.0.0.194",
+    "lat": 53.563656,
+    "lon": -113.368405,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-132",
+    "type": "linepost",
+    "ip": "127.0.0.195",
+    "lat": 53.570408,
+    "lon": -113.502977,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-133",
+    "type": "linepost",
+    "ip": "127.0.0.196",
+    "lat": 53.411527,
+    "lon": -114.443896,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-134",
+    "type": "linepost",
+    "ip": "127.0.0.197",
+    "lat": 53.461414,
+    "lon": -113.490313,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-135",
+    "type": "linepost",
+    "ip": "127.0.0.198",
+    "lat": 53.59328,
+    "lon": -113.318267,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-136",
+    "type": "linepost",
+    "ip": "127.0.0.199",
+    "lat": 53.772897,
+    "lon": -113.170854,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-137",
+    "type": "linepost",
+    "ip": "127.0.0.200",
+    "lat": 53.301635,
+    "lon": -113.453687,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-138",
+    "type": "linepost",
+    "ip": "127.0.0.201",
+    "lat": 53.497508,
+    "lon": -113.381124,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-139",
+    "type": "linepost",
+    "ip": "127.0.0.202",
+    "lat": 53.854237,
+    "lon": -112.952986,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-140",
+    "type": "linepost",
+    "ip": "127.0.0.203",
+    "lat": 53.81046,
+    "lon": -113.097771,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-141",
+    "type": "linepost",
+    "ip": "127.0.0.204",
+    "lat": 53.544482,
+    "lon": -113.401512,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-142",
+    "type": "linepost",
+    "ip": "127.0.0.205",
+    "lat": 53.832283,
+    "lon": -113.026355,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-143",
+    "type": "linepost",
+    "ip": "127.0.0.206",
+    "lat": 53.461693,
+    "lon": -113.606946,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-144",
+    "type": "linepost",
+    "ip": "127.0.0.207",
+    "lat": 53.598788,
+    "lon": -113.602503,
+    "voltage": "138kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-145",
+    "type": "linepost",
+    "ip": "127.0.0.208",
+    "lat": 53.494081,
+    "lon": -114.564187,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-146",
+    "type": "linepost",
+    "ip": "127.0.0.209",
+    "lat": 53.55678,
+    "lon": -114.486015,
+    "voltage": "240kV",
+    "placement": "span"
+  },
+  {
+    "id": "LP-147",
+    "type": "linepost",
+    "ip": "127.0.0.210",
+    "lat": 53.448218,
+    "lon": -114.445753,
+    "voltage": "500kV",
+    "placement": "span"
+  },
+  {
+    "id": "TX-001",
+    "type": "transformer",
+    "ip": "127.0.0.211",
+    "lat": 53.606692,
+    "lon": -113.590048,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-002",
+    "type": "transformer",
+    "ip": "127.0.0.212",
+    "lat": 53.299283,
+    "lon": -113.393948,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-003",
+    "type": "transformer",
+    "ip": "127.0.0.213",
+    "lat": 53.313731,
+    "lon": -114.440193,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-004",
+    "type": "transformer",
+    "ip": "127.0.0.214",
+    "lat": 53.257804,
+    "lon": -113.757113,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-005",
+    "type": "transformer",
+    "ip": "127.0.0.215",
+    "lat": 53.174547,
+    "lon": -113.829646,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-006",
+    "type": "transformer",
+    "ip": "127.0.0.216",
+    "lat": 53.301631,
+    "lon": -113.459556,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-007",
+    "type": "transformer",
+    "ip": "127.0.0.217",
+    "lat": 53.271494,
+    "lon": -113.780859,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-008",
+    "type": "transformer",
+    "ip": "127.0.0.218",
+    "lat": 53.366991,
+    "lon": -113.556157,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-009",
+    "type": "transformer",
+    "ip": "127.0.0.219",
+    "lat": 53.366813,
+    "lon": -113.102116,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-010",
+    "type": "transformer",
+    "ip": "127.0.0.220",
+    "lat": 53.43369,
+    "lon": -113.307622,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-011",
+    "type": "transformer",
+    "ip": "127.0.0.221",
+    "lat": 53.367061,
+    "lon": -112.978664,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-012",
+    "type": "transformer",
+    "ip": "127.0.0.222",
+    "lat": 53.426852,
+    "lon": -114.4443,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-013",
+    "type": "transformer",
+    "ip": "127.0.0.223",
+    "lat": 53.34495,
+    "lon": -113.391113,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-014",
+    "type": "transformer",
+    "ip": "127.0.0.224",
+    "lat": 53.442576,
+    "lon": -114.517951,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-015",
+    "type": "transformer",
+    "ip": "127.0.0.225",
+    "lat": 53.513932,
+    "lon": -114.661207,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-016",
+    "type": "transformer",
+    "ip": "127.0.0.226",
+    "lat": 53.42667,
+    "lon": -113.73818,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-017",
+    "type": "transformer",
+    "ip": "127.0.0.227",
+    "lat": 53.578152,
+    "lon": -113.787407,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-018",
+    "type": "transformer",
+    "ip": "127.0.0.228",
+    "lat": 53.512137,
+    "lon": -113.951877,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-019",
+    "type": "transformer",
+    "ip": "127.0.0.229",
+    "lat": 53.542635,
+    "lon": -113.368929,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-020",
+    "type": "transformer",
+    "ip": "127.0.0.230",
+    "lat": 53.546546,
+    "lon": -113.401515,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-021",
+    "type": "transformer",
+    "ip": "127.0.0.231",
+    "lat": 53.579163,
+    "lon": -114.571427,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-022",
+    "type": "transformer",
+    "ip": "127.0.0.232",
+    "lat": 53.56557,
+    "lon": -114.360823,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-023",
+    "type": "transformer",
+    "ip": "127.0.0.233",
+    "lat": 53.55573,
+    "lon": -114.183664,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-024",
+    "type": "transformer",
+    "ip": "127.0.0.234",
+    "lat": 53.554848,
+    "lon": -113.983512,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-025",
+    "type": "transformer",
+    "ip": "127.0.0.235",
+    "lat": 53.580483,
+    "lon": -114.836401,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-026",
+    "type": "transformer",
+    "ip": "127.0.0.236",
+    "lat": 53.498133,
+    "lon": -114.984055,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-027",
+    "type": "transformer",
+    "ip": "127.0.0.237",
+    "lat": 53.605073,
+    "lon": -114.98135,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-028",
+    "type": "transformer",
+    "ip": "127.0.0.238",
+    "lat": 53.621298,
+    "lon": -113.381259,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-029",
+    "type": "transformer",
+    "ip": "127.0.0.239",
+    "lat": 53.634039,
+    "lon": -113.344209,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-030",
+    "type": "transformer",
+    "ip": "127.0.0.240",
+    "lat": 53.635551,
+    "lon": -113.683529,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-031",
+    "type": "transformer",
+    "ip": "127.0.0.241",
+    "lat": 53.730294,
+    "lon": -113.155651,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-032",
+    "type": "transformer",
+    "ip": "127.0.0.242",
+    "lat": 53.737234,
+    "lon": -113.199281,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-033",
+    "type": "transformer",
+    "ip": "127.0.0.243",
+    "lat": 53.761692,
+    "lon": -113.175275,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-034",
+    "type": "transformer",
+    "ip": "127.0.0.244",
+    "lat": 53.654819,
+    "lon": -113.344216,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-035",
+    "type": "transformer",
+    "ip": "127.0.0.245",
+    "lat": 53.687704,
+    "lon": -113.586201,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-036",
+    "type": "transformer",
+    "ip": "127.0.0.246",
+    "lat": 53.80356,
+    "lon": -113.007147,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-037",
+    "type": "transformer",
+    "ip": "127.0.0.247",
+    "lat": 53.809595,
+    "lon": -112.901244,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-038",
+    "type": "transformer",
+    "ip": "127.0.0.248",
+    "lat": 53.838122,
+    "lon": -113.101383,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-039",
+    "type": "transformer",
+    "ip": "127.0.0.249",
+    "lat": 53.860333,
+    "lon": -113.100066,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-040",
+    "type": "transformer",
+    "ip": "127.0.0.250",
+    "lat": 53.882579,
+    "lon": -112.901471,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-041",
+    "type": "transformer",
+    "ip": "127.0.0.251",
+    "lat": 53.902809,
+    "lon": -113.603218,
+    "voltage": "138kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-042",
+    "type": "transformer",
+    "ip": "127.0.0.252",
+    "lat": 53.478518,
+    "lon": -113.479674,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-043",
+    "type": "transformer",
+    "ip": "127.0.0.253",
+    "lat": 53.513542,
+    "lon": -113.482809,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-044",
+    "type": "transformer",
+    "ip": "127.0.0.254",
+    "lat": 53.520487,
+    "lon": -113.657959,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-045",
+    "type": "transformer",
+    "ip": "127.0.1.1",
+    "lat": 53.619571,
+    "lon": -113.49225,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-046",
+    "type": "transformer",
+    "ip": "127.0.1.2",
+    "lat": 53.859481,
+    "lon": -112.790033,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-047",
+    "type": "transformer",
+    "ip": "127.0.1.3",
+    "lat": 53.956232,
+    "lon": -112.673062,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-048",
+    "type": "transformer",
+    "ip": "127.0.1.4",
+    "lat": 53.955072,
+    "lon": -112.369526,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-049",
+    "type": "transformer",
+    "ip": "127.0.1.5",
+    "lat": 53.917166,
+    "lon": -112.790365,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-050",
+    "type": "transformer",
+    "ip": "127.0.1.6",
+    "lat": 53.956485,
+    "lon": -112.714852,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-051",
+    "type": "transformer",
+    "ip": "127.0.1.7",
+    "lat": 53.978056,
+    "lon": -112.369447,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-052",
+    "type": "transformer",
+    "ip": "127.0.1.8",
+    "lat": 53.262432,
+    "lon": -113.48821,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-053",
+    "type": "transformer",
+    "ip": "127.0.1.9",
+    "lat": 53.363646,
+    "lon": -113.468215,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-054",
+    "type": "transformer",
+    "ip": "127.0.1.10",
+    "lat": 53.454593,
+    "lon": -113.382211,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-055",
+    "type": "transformer",
+    "ip": "127.0.1.11",
+    "lat": 53.434203,
+    "lon": -113.455847,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-056",
+    "type": "transformer",
+    "ip": "127.0.1.12",
+    "lat": 53.482779,
+    "lon": -114.31343,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-057",
+    "type": "transformer",
+    "ip": "127.0.1.13",
+    "lat": 53.333439,
+    "lon": -114.427236,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-058",
+    "type": "transformer",
+    "ip": "127.0.1.14",
+    "lat": 53.449605,
+    "lon": -114.429972,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-059",
+    "type": "transformer",
+    "ip": "127.0.1.15",
+    "lat": 53.286294,
+    "lon": -114.427094,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-060",
+    "type": "transformer",
+    "ip": "127.0.1.16",
+    "lat": 53.159384,
+    "lon": -114.427543,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-061",
+    "type": "transformer",
+    "ip": "127.0.1.17",
+    "lat": 53.2566,
+    "lon": -114.525187,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-062",
+    "type": "transformer",
+    "ip": "127.0.1.18",
+    "lat": 53.461701,
+    "lon": -113.625387,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-063",
+    "type": "transformer",
+    "ip": "127.0.1.19",
+    "lat": 53.461601,
+    "lon": -113.529192,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-064",
+    "type": "transformer",
+    "ip": "127.0.1.20",
+    "lat": 53.473557,
+    "lon": -114.541046,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-065",
+    "type": "transformer",
+    "ip": "127.0.1.21",
+    "lat": 53.460841,
+    "lon": -114.146696,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-066",
+    "type": "transformer",
+    "ip": "127.0.1.22",
+    "lat": 53.461225,
+    "lon": -113.974205,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-067",
+    "type": "transformer",
+    "ip": "127.0.1.23",
+    "lat": 53.46682,
+    "lon": -114.26385,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-068",
+    "type": "transformer",
+    "ip": "127.0.1.24",
+    "lat": 53.461867,
+    "lon": -114.088886,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-069",
+    "type": "transformer",
+    "ip": "127.0.1.25",
+    "lat": 53.461612,
+    "lon": -113.753517,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-070",
+    "type": "transformer",
+    "ip": "127.0.1.26",
+    "lat": 53.505249,
+    "lon": -114.841791,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-071",
+    "type": "transformer",
+    "ip": "127.0.1.27",
+    "lat": 53.520509,
+    "lon": -114.60802,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-072",
+    "type": "transformer",
+    "ip": "127.0.1.28",
+    "lat": 53.505312,
+    "lon": -114.931672,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-073",
+    "type": "transformer",
+    "ip": "127.0.1.29",
+    "lat": 53.527388,
+    "lon": -114.640116,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-074",
+    "type": "transformer",
+    "ip": "127.0.1.30",
+    "lat": 53.503974,
+    "lon": -114.543419,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-075",
+    "type": "transformer",
+    "ip": "127.0.1.31",
+    "lat": 53.485378,
+    "lon": -114.430156,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-076",
+    "type": "transformer",
+    "ip": "127.0.1.32",
+    "lat": 53.540828,
+    "lon": -114.325946,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-077",
+    "type": "transformer",
+    "ip": "127.0.1.33",
+    "lat": 53.577421,
+    "lon": -114.263797,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-078",
+    "type": "transformer",
+    "ip": "127.0.1.34",
+    "lat": 53.577414,
+    "lon": -113.991888,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-079",
+    "type": "transformer",
+    "ip": "127.0.1.35",
+    "lat": 53.577386,
+    "lon": -113.825394,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-080",
+    "type": "transformer",
+    "ip": "127.0.1.36",
+    "lat": 53.588767,
+    "lon": -113.367756,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-081",
+    "type": "transformer",
+    "ip": "127.0.1.37",
+    "lat": 53.515134,
+    "lon": -114.880059,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-082",
+    "type": "transformer",
+    "ip": "127.0.1.38",
+    "lat": 53.614323,
+    "lon": -113.532584,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-083",
+    "type": "transformer",
+    "ip": "127.0.1.39",
+    "lat": 53.661186,
+    "lon": -113.270365,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-084",
+    "type": "transformer",
+    "ip": "127.0.1.40",
+    "lat": 53.781519,
+    "lon": -113.132718,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-085",
+    "type": "transformer",
+    "ip": "127.0.1.41",
+    "lat": 53.838589,
+    "lon": -113.013097,
+    "voltage": "240kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-086",
+    "type": "transformer",
+    "ip": "127.0.1.42",
+    "lat": 53.86937,
+    "lon": -113.175147,
+    "voltage": "260kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-087",
+    "type": "transformer",
+    "ip": "127.0.1.43",
+    "lat": 53.382174,
+    "lon": -114.290034,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-088",
+    "type": "transformer",
+    "ip": "127.0.1.44",
+    "lat": 53.37395,
+    "lon": -113.964614,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-089",
+    "type": "transformer",
+    "ip": "127.0.1.45",
+    "lat": 53.345314,
+    "lon": -113.809036,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-090",
+    "type": "transformer",
+    "ip": "127.0.1.46",
+    "lat": 53.397172,
+    "lon": -113.586916,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-091",
+    "type": "transformer",
+    "ip": "127.0.1.47",
+    "lat": 53.340306,
+    "lon": -114.381888,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-092",
+    "type": "transformer",
+    "ip": "127.0.1.48",
+    "lat": 53.20223,
+    "lon": -114.426779,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-093",
+    "type": "transformer",
+    "ip": "127.0.1.49",
+    "lat": 53.54515,
+    "lon": -113.337593,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-094",
+    "type": "transformer",
+    "ip": "127.0.1.50",
+    "lat": 53.693073,
+    "lon": -113.379767,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-095",
+    "type": "transformer",
+    "ip": "127.0.1.51",
+    "lat": 53.773986,
+    "lon": -113.28694,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-096",
+    "type": "transformer",
+    "ip": "127.0.1.52",
+    "lat": 53.408451,
+    "lon": -114.35043,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-097",
+    "type": "transformer",
+    "ip": "127.0.1.53",
+    "lat": 53.459304,
+    "lon": -114.395808,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-098",
+    "type": "transformer",
+    "ip": "127.0.1.54",
+    "lat": 53.461601,
+    "lon": -114.004709,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-099",
+    "type": "transformer",
+    "ip": "127.0.1.55",
+    "lat": 53.460822,
+    "lon": -113.850699,
+    "voltage": "500kV",
+    "placement": "tap"
+  },
+  {
+    "id": "TX-100",
+    "type": "transformer",
+    "ip": "127.0.1.56",
+    "lat": 53.436191,
+    "lon": -113.524055,
+    "voltage": "500kV",
+    "placement": "tap"
+  }
+]
+

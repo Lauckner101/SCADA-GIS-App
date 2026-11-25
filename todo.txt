@@ -1,0 +1,11 @@
+List of todo items:
+
+
+
+- clean up code
+- commit to git
+- deploy on aws
+
+
+- fix faulty structure: warnings should be determined by the sensors themselves, and sent in comms to modbus server.
+- fix faulty structure: sensors now know their line voltage as per the device json data, should be communicated along with coordinates to HMI to reduce front end complexity.
