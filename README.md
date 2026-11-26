@@ -9,12 +9,12 @@ The whole system is deployed on AWS. The simulated sensors and the backend are r
 
 ## Features
 
-- **Map view** of all 309 devices (62 reclosers, 147 line posts, 100 transformer monitors) on a MapLibre map, with transmission lines coloured based on voltage.
-- **Live readings** for every device, every second, with online, offline, open and warning states shown by icon colour.
-- **Warning detection.** voltage more than 10% above nominal or current above the line's rated ampacity gives of a warning.
-- **Warnings and Recent warnings lists.** Devices currently in warning, and devices that were in warning within the last 10 minutes.
-- **Recloser control.** Open or close a recloser (the state is read back from the device after the command).
-- **Historical data panel.** A list of a device's last 500 readings, with warning readings highlighted in red.
+- **Map view:** of all 309 devices (62 reclosers, 147 line posts, 100 transformer monitors) on a MapLibre map, with transmission lines coloured based on voltage.
+- **Live readings:** polled every second, with online, offline, open, and warning states indicated by colour.
+- **Warning detection:** voltage more than 10% above nominal or current above the line's rated ampacity gives of a warning.
+- **Warnings and Recent warnings lists:** Devices currently in warning, and devices that were in warning within the last 10 minutes.
+- **Recloser control:** Open or close a recloser (the state is read back from the device after the command).
+- **Historical data panel:** A list of a device's last 500 readings, with warning readings highlighted in red.
 
 ## Architecture
 
