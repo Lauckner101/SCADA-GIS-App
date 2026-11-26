@@ -4,7 +4,7 @@ A complete SCADA system: 309 simulated field devices written in C, a Go backend 
 
 The whole system is deployed on AWS. The simulated sensors and the backend are running together in a Docker container on an EC2 Linux server. The HMI is deployed from S3 and CloudFront. The HMI and backend communicate over HTTPS.
 
-**Live HMI:** [https://d25m41ei7b1ynm.cloudfront.net/] (https://d25m41ei7b1ynm.cloudfront.net/)
+**Live HMI:** (https://d25m41ei7b1ynm.cloudfront.net/)
 
 
 ## Features
